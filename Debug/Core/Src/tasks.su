@@ -1,0 +1,7 @@
+tasks.c:11:6:UARTIRQHandlerC	8	static
+tasks.c:23:6:builsTasks	16	static
+tasks.c:30:6:printAT	24	static
+tasks.c:39:6:Custom_SPI_WriteByte	24	static
+tasks.c:58:5:findToArray	24	static
+tasks.c:88:13:UARTTask	40	static
+tasks.c:162:13:DriveTask	24	static,ignoring_inline_asm

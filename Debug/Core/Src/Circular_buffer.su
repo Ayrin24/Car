@@ -1,0 +1,4 @@
+Circular_buffer.c:10:10:getCurentLenght	4	static
+Circular_buffer.c:15:9:readByte	16	static
+Circular_buffer.c:28:6:sendByte	24	static
+Circular_buffer.c:44:10:getFreeSize	4	static
